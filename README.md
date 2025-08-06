@@ -9,7 +9,6 @@
 3. **Your Turn** – replicate the sequence by clicking on the color buttons in the correct order.
 4. **Progression** – if you succeed, the sequence grows by one for the next round.
 5. **Game Over** – a mistake ends the game. The background may flash red, and your final score is displayed. You can restart the game anytime.  
-   This pattern-based gameplay and scoring flow mirrors typical browser Simon game implementations :contentReference[oaicite:1]{index=1}.
 
 ---
 
